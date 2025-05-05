@@ -1,0 +1,31 @@
+body {
+    box-sizing: border-box;
+    background-color: beige;
+}
+
+h1 {
+    font-size: 56px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: purple;
+    text-align: center;
+    background-color: palegoldenrod;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    margin-left: 30px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p,
+ul,
+ol,
+a {
+    margin: 30px;
+    font-size: 30px;
+}
